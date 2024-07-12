@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-<p>Current portfolio of my personal web development projects!</p>
+<p>Current portfolio of my personal web development projects! </p>
 
 <br>
 
